@@ -1,0 +1,32 @@
+.card-header {
+    background-color: #00285F;
+    padding: 60px 15px 50px 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    justify-content: space-between;
+}
+
+.card-header:first-child {
+    border-radius: 10px;
+  }
+
+.card-header h5 {
+    color: #FFFFFF;
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.card-header p {
+    color: #FFFFFF;
+    font-size: 14px;
+    text-align: center;
+    max-width: 300px;
+}
+
+.img-header {
+    width: 244px;
+    height: 146px;
+}
