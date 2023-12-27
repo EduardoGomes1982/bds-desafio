@@ -15,8 +15,9 @@
 .main-menu {
   display: flex;
   font-size: 18px;
-  width: 320px;
-  justify-content: space-between;
+  width: 380px;
+  column-gap: 50px;
+  justify-content: flex-end;
 }
 
 .active {
