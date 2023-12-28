@@ -1,0 +1,12 @@
+.bt-footer {
+    font-size: 14px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #00285F;
+    width: 174px;
+    height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+}

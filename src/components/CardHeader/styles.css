@@ -30,3 +30,22 @@
     width: 244px;
     height: 146px;
 }
+
+@media (min-width: 1200px) {
+    .card-header {
+        flex-direction: row-reverse;
+        justify-content: center;
+        gap: 120px;
+    }
+
+    .card-header h5 {
+        font-size: 36px;
+        text-align: left;
+    }
+    
+    .card-header p {
+        font-size: 18px;
+        text-align: left;
+        max-width: 420px;
+    }
+}
