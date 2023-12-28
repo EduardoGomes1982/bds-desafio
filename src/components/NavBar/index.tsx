@@ -6,7 +6,7 @@ import { Link, NavLink } from 'react-router-dom';
 const NavBar = () => {
     return (
         <nav className='bg-primary navbar navbar-expand-md navbar-dark main-nav nav-logo-text'>
-            <div className='container-fluid container-lg'>
+            <div className='container-lg container-fluid'>
                 <Link to='/'>
                     <h4>Carros Top</h4>
                 </Link>
